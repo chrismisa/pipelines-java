@@ -12,7 +12,7 @@ variables:
   azureSubscription: '28a103e2-11fb-40a7-b86b-07aa5e9b0df1'
 
   # Web app name
-  webAppName: ''
+  webAppName: 'webapp-test'
 
   # Environment name
   environmentName: 'test-env'
